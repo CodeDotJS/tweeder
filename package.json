@@ -1,6 +1,6 @@
 {
   "name": "tweeder",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Read tweets tweeted by a twitter user.",
   "license": "MIT",
   "repository": {
