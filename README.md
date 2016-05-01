@@ -12,7 +12,7 @@
 
 const tweeder = require('tweeder');
 
-packStat('pakalupapito').then(tweets => {
+tweeder('pakalupapito').then(tweets => {
 	console.log(tweets);
 	/*
 	{
