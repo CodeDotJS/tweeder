@@ -1,6 +1,6 @@
 # tweeder
 
-> Displays metrics about npm modules.
+> Read tweets tweeted by a twitter user.
 
 ## Install
 
