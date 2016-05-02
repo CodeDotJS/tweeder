@@ -21,12 +21,7 @@ module.exports = function (username) {
 			tweet1: $('.TweetTextSize').eq(1).text() || null,
 			tweet2: $('.TweetTextSize').eq(2).text() || null,
 			tweet3: $('.TweetTextSize').eq(3).text() || null,
-			tweet4: $('.TweetTextSize').eq(4).text() || null,
-			tweet5: $('.TweetTextSize').eq(5).text() || null,
-			tweet6: $('.TweetTextSize').eq(6).text() || null,
-			tweet7: $('.TweetTextSize').eq(7).text() || null,
-			tweet8: $('.TweetTextSize').eq(8).text() || null,
-			tweet9: $('.TweetTextSize').eq(9).text() || null
+			tweet4: $('.TweetTextSize').eq(4).text() || null
 		};
 	}).catch(function (err) {
 		if (err.statusCode === 404) {
